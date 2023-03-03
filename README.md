@@ -13,7 +13,7 @@ You can add your own commands to a page. See the example below.
 ## Installation
 Install from source
 ```bash
-git clone 
+git clone https://github.com/randymcbride/demobuilder.git
 mvn clean install
 ```
 
